@@ -1,8 +1,7 @@
 ---
 title: White Ibis
-classes: wide
 ---
 
-![White and Glossy Ibises]({{ site.baseurl }}/images/2024-12-21/ibises.jpg "White and Glossy Ibises")
+The Glossy Ibis is a familiar friend in Southern Wyoming, particularly throughout the wetlands of Hutton Lake National Wildlife Refuge, where they frequently nest among the bulrush.
 
-The groaning call of a Glossy Ibis flying overhead is all too common at Hutton Lake NWR.
+![White and Glossy Ibises]({{ site.baseurl }}/images/2024-12-21/ibises.jpg "White and Glossy Ibises")
