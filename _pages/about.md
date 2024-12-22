@@ -3,7 +3,7 @@ layout: single
 permalink: /about/
 title: ""
 header:
-  image: /images/mee.jpg
+  image: /images/lostspring.jpg
 ---
 
 ![Mee Canyon Alcove]({{ site.baseurl }}/images/mee.jpg "Mee Canyon Alcove")
