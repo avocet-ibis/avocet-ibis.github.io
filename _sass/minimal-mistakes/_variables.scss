@@ -16,20 +16,20 @@ $paragraph-indent: false !default; // true, false (default)
 $indent-var: 1.3em !default;
 
 /* system typefaces */
-$serif: Time !default;
-$sans-serif: Times !default;
-$monospace: Times !default;
+$serif: Georgia !default;
+$sans-serif: Georgia !default;
+$monospace: Georgia !default;
 
 /* sans serif typefaces */
 $sans-serif-narrow: $sans-serif !default;
-$helvetica: Times !default;
+$helvetica: Georgia !default;
 
 /* serif typefaces */
-$georgia: Times !default;
-$times: Times !default;
-$bodoni: Times !default;
-$calisto: Times !default;
-$Times: Times !default;
+$georgia: Georgia !default;
+$Georgia: Georgia !default;
+$bodoni: Georgia !default;
+$calisto: Georgia !default;
+$Georgia: Georgia !default;
 
 $global-font-family: $sans-serif !default;
 $header-font-family: $sans-serif !default;
