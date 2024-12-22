@@ -16,20 +16,20 @@ $paragraph-indent: false !default; // true, false (default)
 $indent-var: 1.3em !default;
 
 /* system typefaces */
-$serif: Garamond !default;
-$sans-serif: Garamond !default;
-$monospace: Garamond !default;
+$serif: "Courier New" !default;
+$sans-serif: "Courier New" !default;
+$monospace: "Courier New" !default;
 
 /* sans serif typefaces */
 $sans-serif-narrow: $sans-serif !default;
-$helvetica: Garamond !default;
+$helvetica: "Courier New" !default;
 
 /* serif typefaces */
-$Garamond: Garamond !default;
-$Garamond: Garamond !default;
-$bodoni: Garamond !default;
-$calisto: Garamond !default;
-$Garamond: Garamond !default;
+$"Courier New": "Courier New" !default;
+$"Courier New": "Courier New" !default;
+$bodoni: "Courier New" !default;
+$calisto: "Courier New" !default;
+$"Courier New": "Courier New" !default;
 
 $global-font-family: $sans-serif !default;
 $header-font-family: $sans-serif !default;
