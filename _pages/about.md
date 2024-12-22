@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /about/
-title: 
+title: ""
 header:
   overlay_image: /images/mee.jpg
 ---
