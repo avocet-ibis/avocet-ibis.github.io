@@ -6,14 +6,7 @@ The White-faced Ibis is a familiar friend to birders throughout Southern Wyoming
 
 ![White-faced Ibis]({{ site.baseurl }}/images/2024-12-21/white-faced.jpg "White-faced Ibis")
 
-This gregarious species migrates in large numbers and will form nesting colonies as they settle for the breeding season. At Hutton Lake, they generally feed in open water but nest westward in a large, heavily vegetation floodplain that recently became part of the Wyoming Toad Conservation Area. They are often seen flying between the two areas, with rapid wingbeats and necks and legs outstretched. While overhead, they often vocalize with low croaking and grunting calls
-
-
-
-
-
-
-
+This gregarious species migrates in large numbers and will form nesting colonies as they settle for the breeding season. At Hutton Lake, they mostly feed in open water but nest westward in a large, heavily vegetation floodplain that recently became part of the Wyoming Toad Conservation Area. They are often seen flying between the two areas, with rapid wingbeats and necks and legs outstretched. While overhead, they frequently vocalize with low croaking and grunting calls, generally the only sounds you can expect to hear from this quiet species.
 
 
 
