@@ -1,8 +1,8 @@
 ---
 layout: single
 permalink: /about/
+header:
+  overlay_image: /images/mee.jpg
 ---
-
-# About
 
 We are two naturalists
