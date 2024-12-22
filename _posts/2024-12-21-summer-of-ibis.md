@@ -1,6 +1,5 @@
 ---
 title: Summer of the Ibis
-classes: wide
 ---
 
 The Glossy Ibis is a familiar friend in Southern Wyoming, particularly throughout the wetlands of Hutton Lake National Wildlife Refuge, where they frequently nest among the bulrush.
