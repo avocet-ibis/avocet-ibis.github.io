@@ -1,11 +1,8 @@
 ---
 title: White Ibis
 classes: wide
-sidebar:
-  - title: "Photos from the Field"
-    image: "/images/mee.jpg"
-    image: "/images/mee.jpg"
-    image: "/images/mee.jpg"
 ---
 
-Testing. What a wonderful day. Yay!
+![White and Glossy Ibises]({{ site.baseurl }}/images/2024-12-21/ibises.jpg "White and Glossy Ibises")
+
+The groaning call of a Glossy Ibis flying overhead is all too common at Hutton Lake NWR.
