@@ -1,5 +1,8 @@
 ---
 layout: single
+classes:
+  - landing
+  - dark-theme
 permalink: /about/
 title: ""
 ---
