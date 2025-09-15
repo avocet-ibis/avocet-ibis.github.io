@@ -105,4 +105,4 @@ gallery:
 
 {% include gallery class="full" %}
 
-I try to minimally edit pictures and realistically depict what I see in the field. Most of my better photos are taken with a Nikon D500 and 200-500mm lens. I take many more horrendous pictures, often with a beat-up Nikon Coopix P950.
+I try to minimally edit pictures and realistically depict what I see in the field. Most of my better photos are taken with a Nikon D500 and 200-500mm lens. I take many more horrendous pictures, often with a beat-up Nikon Coolpix P950.
