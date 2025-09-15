@@ -6,6 +6,10 @@ gallery:
     image_path: /images/photos/baldeagle.jpg
     alt: "Bald Eagle (Laramie, WY)"
     title: "Bald Eagle (Laramie, WY)"
+  - url: /images/photos/acornwoodpecker.jpg
+    image_path: /images/photos/acornwoodpecker.jpg
+    alt: "Acorn Woodpecker (Sierra Vista, AZ)"
+    title: "Acorn Woodpecker (Sierra Vista, AZ)"
   - url: /images/photos/loggerheadshrike.jpg
     image_path: /images/photos/loggerheadshrike.jpg
     alt: "Loggerhead Shrike (Bosque del Apache NWR, NM)"
@@ -18,10 +22,10 @@ gallery:
     image_path: /images/photos/greathornedowl.jpg
     alt: "Great Horned Owl (Fort Collins, CO)"
     title: "Great Horned Owl (Fort Collins, CO)"
-  - url: /images/photos/acornwoodpecker.jpg
-    image_path: /images/photos/acornwoodpecker.jpg
-    alt: "Acorn Woodpecker (Sierra Vista, AZ)"
-    title: "Acorn Woodpecker (Sierra Vista, AZ)"
+  - url: /images/photos/weasel.jpg
+    image_path: /images/photos/weasel.jpg
+    alt: "Long-tailed Weasel (Laramie, WY)"
+    title: "Long-tailed Weasel (Laramie, WY)"
   - url: /images/photos/americancoot.jpg
     image_path: /images/photos/americancoot.jpg
     alt: "American Coot (Socorro, NM)"
@@ -94,12 +98,6 @@ gallery:
     image_path: /images/photos/javelina.jpg
     alt: "Collared Peccary (Bosque del Apache NWR, NM)"
     title: "Collared Peccary (Bosque del Apache NWR, NM)"
-  - url: /images/photos/weasel.jpg
-    image_path: /images/photos/weasel.jpg
-    alt: "Long-tailed Weasel (Laramie, WY)"
-    title: "Long-tailed Weasel (Laramie, WY)"
 ---
 
 {% include gallery %}
-
-These thumbnails represent some of my favorite photos that I have taken in the past two years. More of my pictures (most of which are much lower quality) can be found on [ebird](https://media.ebird.org/catalog?sort=rating_rank_desc&regionCode=US&userId=USER3673660) or [iNaturalist](https://www.inaturalist.org/observations?place_id=any&user_id=spencer3616&verifiable=any).
