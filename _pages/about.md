@@ -7,6 +7,6 @@ permalink: /about/
 
 <br/><br/>
 
-![image-center](/assets/images/about.jpg){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/about.jpg){: .align-center}
 
 ### Hello
