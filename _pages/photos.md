@@ -102,3 +102,5 @@ gallery:
 ---
 
 {% include gallery %}
+
+Most of my better photos are taken with a Nikon D500 and 200-500mm lens. I take many more horrendous pictures, often with a beat-up Nikon Coopix P950.
