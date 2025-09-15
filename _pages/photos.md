@@ -33,6 +33,12 @@ gallery:
   - url: /images/photos/americangoldfinch.jpg
     image_path: /images/photos/americangoldfinch.jpg
     alt: "American Goldfinch (Laramie, WY)"
+  - url: /images/photos/americankestrel.jpg
+    image_path: /images/photos/americangkestrel.jpg
+    alt: "American Kestrel (Laramie, WY)"
+  - url: /images/photos/beltedkingfisher.jpg
+    image_path: /images/photos/beltedkingfisher.jpg
+    alt: "Belted Kingfisher (Fort Collins, CO)"
 ---
 
 
