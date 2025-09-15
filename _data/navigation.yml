@@ -1,10 +1,6 @@
 # main links
 main:
+  - title: "Quick-Start Guide"
+    url: /docs/quick-start-guide/
   - title: "About"
-     url: https:avocet-ibis.github.io/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    url: /_pages/about/
