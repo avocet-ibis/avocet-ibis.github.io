@@ -9,4 +9,5 @@ permalink: /about/
 
 ![RNSS](/images/about.jpg){: .align-center}
 
+## About
 Howdy!
