@@ -159,9 +159,6 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:sahurt@proton.me"
   since: "2025"
 
 
