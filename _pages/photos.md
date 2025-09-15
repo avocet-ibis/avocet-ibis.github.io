@@ -42,18 +42,18 @@ gallery:
     image_path: /images/photos/americangoldfinch.jpg
     alt: "American Goldfinch (Laramie, WY)"
     title: "American Goldfinch (Laramie, WY)"
-  - url: /images/photos/americankestrel.jpg
-    image_path: /images/photos/americankestrel.jpg
-    alt: "American Kestrel (Laramie, WY)"
-    title: "American Kestrel (Laramie, WY)"
-  - url: /images/photos/beltedkingfisher.jpg
-    image_path: /images/photos/beltedkingfisher.jpg
-    alt: "Belted Kingfisher (Fort Collins, CO)"
-    title: "Belted Kingfisher (Fort Collins, CO)"
   - url: /images/photos/bewickswren.jpg
     image_path: /images/photos/bewickswren.jpg
     alt: "Bewick's Wren (Albuquerque, NM)"
     title: "Bewick's Wren (Albuquerque, NM)"
+  - url: /images/photos/beltedkingfisher.jpg
+    image_path: /images/photos/beltedkingfisher.jpg
+    alt: "Belted Kingfisher (Fort Collins, CO)"
+    title: "Belted Kingfisher (Fort Collins, CO)"
+  - url: /images/photos/americankestrel.jpg
+    image_path: /images/photos/americankestrel.jpg
+    alt: "American Kestrel (Laramie, WY)"
+    title: "American Kestrel (Laramie, WY)"
   - url: /images/photos/broadbilledhummingbird.jpg
     image_path: /images/photos/broadbilledhummingbird.jpg
     alt: "Broad-billed Hummingbird (Patagonia, AZ)"
@@ -62,10 +62,18 @@ gallery:
     image_path: /images/photos/darkeyedjunco.jpg
     alt: "Dark-eyed Junco (Medicine Bow National Forest, WY)"
     title: "Dark-eyed Junco (Medicine Bow National Forest, WY)"
+  - url: /images/photos/javelina.jpg
+    image_path: /images/photos/javelina.jpg
+    alt: "Collared Peccary (Bosque del Apache NWR, NM)"
+    title: "Collared Peccary (Bosque del Apache NWR, NM)"
   - url: /images/photos/neotropiccormorant.jpg
     image_path: /images/photos/neotropiccormorant.jpg
     alt: "Neotropic Cormorant (Albuquerque, NM)"
     title: "Neotropic Cormorant (Albuquerque, NM)"
+  - url: /images/photos/swainsonshawk.jpg
+    image_path: /images/photos/swainsonshawk.jpg
+    alt: "Swainson's Hawk (Laramie, WY)"
+    title: "Swainson's Hawk (Laramie, WY)"
   - url: /images/photos/osprey.jpg
     image_path: /images/photos/osprey.jpg
     alt: "Osprey (Laramie, WY)"
@@ -82,10 +90,6 @@ gallery:
     image_path: /images/photos/spottedtowhee.jpg
     alt: "Spotted Towhee (Albuquerque, NM)"
     title: "Spotted Towhee (Albuquerque, NM)"
-  - url: /images/photos/swainsonshawk.jpg
-    image_path: /images/photos/swainsonshawk.jpg
-    alt: "Swainson's Hawk (Laramie, WY)"
-    title: "Swainson's Hawk (Laramie, WY)"
   - url: /images/photos/wildturkey.jpg
     image_path: /images/photos/wildturkey.jpg
     alt: "Wild Turkey (Grand Junction, CO)"
@@ -94,10 +98,6 @@ gallery:
     image_path: /images/photos/wilsonsphalarope.jpg
     alt: "Wilson's Phalarope (Hutton Lake NWR, WY)"
     title: "Wilson's Phalarope (Hutton Lake NWR, WY)"
-  - url: /images/photos/javelina.jpg
-    image_path: /images/photos/javelina.jpg
-    alt: "Collared Peccary (Bosque del Apache NWR, NM)"
-    title: "Collared Peccary (Bosque del Apache NWR, NM)"
 ---
 
 {% include gallery %}
