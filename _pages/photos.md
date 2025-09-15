@@ -34,11 +34,47 @@ gallery:
     image_path: /images/photos/americangoldfinch.jpg
     alt: "American Goldfinch (Laramie, WY)"
   - url: /images/photos/americankestrel.jpg
-    image_path: /images/photos/americangkestrel.jpg
+    image_path: /images/photos/americankestrel.jpg
     alt: "American Kestrel (Laramie, WY)"
   - url: /images/photos/beltedkingfisher.jpg
     image_path: /images/photos/beltedkingfisher.jpg
     alt: "Belted Kingfisher (Fort Collins, CO)"
+  - url: /images/photos/bewickswren.jpg
+    image_path: /images/photos/bewickswren.jpg
+    alt: "Bewick's Wren (Albuquerque, NM)"
+  - url: /images/photos/broadbilledhummingbird.jpg
+    image_path: /images/photos/broadbilledhummingbird.jpg
+    alt: "Broad-billed Hummingbird (Patagonia, AZ)"
+  - url: /images/photos/cliffswallow.jpg
+    image_path: /images/photos/cliffswallow.jpg
+    alt: "Cliff Swallow (Laramie, WY)"
+  - url: /images/photos/darkeyedjunco.jpg
+    image_path: /images/photos/darkeyedjunco.jpg
+    alt: "Dark-eyed Junco (Medicine Bow National Forest, WY)"
+  - url: /images/photos/neotropiccormorant.jpg
+    image_path: /images/photos/neotropiccormorant.jpg
+    alt: "Neotropic Cormorant (Albuquerque, NM)"
+  - url: /images/photos/osprey.jpg
+    image_path: /images/photos/osprey.jpg
+    alt: "Osprey (Laramie, WY)"
+  - url: /images/photos/paintedredstart.jpg
+    image_path: /images/photos/paintedredstart.jpg
+    alt: "Painted Redstart (Cibola National Forest, NM)"
+  - url: /images/photos/rufoushummingbird.jpg
+    image_path: /images/photos/rufoushummingbird.jpg
+    alt: "Rufous Hummingbird (Grand Lake, CO)"
+  - url: /images/photos/spottedtowhee.jpg
+    image_path: /images/photos/spottedtowhee.jpg
+    alt: "Spotted Towhee (Albuquerque, NM)"
+  - url: /images/photos/swainsonshawk.jpg
+    image_path: /images/photos/swainsonshawk.jpg
+    alt: "Swainson's Hawk (Laramie, WY)"
+  - url: /images/photos/wildturkey.jpg
+    image_path: /images/photos/wildturkey.jpg
+    alt: "Wild Turkey (Grand Junction, CO)"
+  - url: /images/photos/wilsonsphalarope.jpg
+    image_path: /images/photos/wilsonsphalarope.jpg
+    alt: "Wilson's Phalarope (Hutton Lake NWR, WY)"
 ---
 
 
