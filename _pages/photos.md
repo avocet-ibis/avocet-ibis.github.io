@@ -18,18 +18,22 @@ gallery:
     image_path: /images/photos/blackthroatedgreywarbler.jpg
     alt: "Black-throated Grey Warbler (Socorro, NM)"
     title: "Black-throated Grey Warbler (Socorro, NM)"
-  - url: /images/photos/greathornedowl.jpg
-    image_path: /images/photos/greathornedowl.jpg
-    alt: "Great Horned Owl (Fort Collins, CO)"
-    title: "Great Horned Owl (Fort Collins, CO)"
   - url: /images/photos/weasel.jpg
     image_path: /images/photos/weasel.jpg
     alt: "Long-tailed Weasel (Laramie, WY)"
     title: "Long-tailed Weasel (Laramie, WY)"
+  - url: /images/photos/greathornedowl.jpg
+    image_path: /images/photos/greathornedowl.jpg
+    alt: "Great Horned Owl (Fort Collins, CO)"
+    title: "Great Horned Owl (Fort Collins, CO)"
   - url: /images/photos/americancoot.jpg
     image_path: /images/photos/americancoot.jpg
     alt: "American Coot (Socorro, NM)"
     title: "American Coot (Socorro, NM)"
+  - url: /images/photos/cliffswallow.jpg
+    image_path: /images/photos/cliffswallow.jpg
+    alt: "Cliff Swallow (Laramie, WY)"
+    title: "Cliff Swallow (Laramie, WY)"
   - url: /images/photos/americancrow.jpg
     image_path: /images/photos/americancrow.jpg
     alt: "American Crow (Laramie, WY)"
@@ -54,10 +58,6 @@ gallery:
     image_path: /images/photos/broadbilledhummingbird.jpg
     alt: "Broad-billed Hummingbird (Patagonia, AZ)"
     title: "Broad-billed Hummingbird (Patagonia, AZ)"
-  - url: /images/photos/cliffswallow.jpg
-    image_path: /images/photos/cliffswallow.jpg
-    alt: "Cliff Swallow (Laramie, WY)"
-    title: "Cliff Swallow (Laramie, WY)"
   - url: /images/photos/darkeyedjunco.jpg
     image_path: /images/photos/darkeyedjunco.jpg
     alt: "Dark-eyed Junco (Medicine Bow National Forest, WY)"
