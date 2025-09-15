@@ -74,10 +74,18 @@ gallery:
     image_path: /images/photos/swainsonshawk.jpg
     alt: "Swainson's Hawk (Laramie, WY)"
     title: "Swainson's Hawk (Laramie, WY)"
+  - url: /images/photos/wildturkey.jpg
+    image_path: /images/photos/wildturkey.jpg
+    alt: "Wild Turkey (Grand Junction, CO)"
+    title: "Wild Turkey (Grand Junction, CO)"
   - url: /images/photos/osprey.jpg
     image_path: /images/photos/osprey.jpg
     alt: "Osprey (Laramie, WY)"
     title: "Osprey (Laramie, WY)"
+  - url: /images/photos/wilsonsphalarope.jpg
+    image_path: /images/photos/wilsonsphalarope.jpg
+    alt: "Wilson's Phalarope (Hutton Lake NWR, WY)"
+    title: "Wilson's Phalarope (Hutton Lake NWR, WY)"
   - url: /images/photos/paintedredstart.jpg
     image_path: /images/photos/paintedredstart.jpg
     alt: "Painted Redstart (Cibola National Forest, NM)"
@@ -90,14 +98,7 @@ gallery:
     image_path: /images/photos/spottedtowhee.jpg
     alt: "Spotted Towhee (Albuquerque, NM)"
     title: "Spotted Towhee (Albuquerque, NM)"
-  - url: /images/photos/wildturkey.jpg
-    image_path: /images/photos/wildturkey.jpg
-    alt: "Wild Turkey (Grand Junction, CO)"
-    title: "Wild Turkey (Grand Junction, CO)"
-  - url: /images/photos/wilsonsphalarope.jpg
-    image_path: /images/photos/wilsonsphalarope.jpg
-    alt: "Wilson's Phalarope (Hutton Lake NWR, WY)"
-    title: "Wilson's Phalarope (Hutton Lake NWR, WY)"
+
 ---
 
 {% include gallery %}
