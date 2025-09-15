@@ -1,4 +1,4 @@
-![AMDI](/images/2025-9-15/amdi.jpg){: .align-center}
+![AMDI](/images/2025-09-15/dipper.jpg){: .align-center}
 
 
 
