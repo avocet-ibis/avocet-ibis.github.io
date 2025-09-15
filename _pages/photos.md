@@ -100,5 +100,6 @@ gallery:
     title: "Long-tailed Weasel (Laramie, WY)"
 ---
 
+{% include gallery %}
 
 These thumbnails represent some of my favorite photos that I have taken in the past two years. More of my pictures (most of which are much lower quality) can be found on [ebird](https://media.ebird.org/catalog?sort=rating_rank_desc&regionCode=US&userId=USER3673660) or [iNaturalist](https://www.inaturalist.org/observations?place_id=any&user_id=spencer3616&verifiable=any).
