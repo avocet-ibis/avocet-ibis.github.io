@@ -101,4 +101,4 @@ gallery:
 ---
 
 
-{% include gallery caption="These thumbnails represent a some of my favorite photos that I have taken. Many others (mostly much worse quality) can be found on my eBird and iNaturalist profiles." %}
+These thumbnails represent some of my favorite photos that I have taken in the past two years. More of my pictures (most of which are much lower quality) can be found on [ebird](https://media.ebird.org/catalog?sort=rating_rank_desc&regionCode=US&userId=USER3673660) or [iNaturalist](https://www.inaturalist.org/observations?place_id=any&user_id=spencer3616&verifiable=any).
