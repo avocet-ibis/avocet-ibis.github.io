@@ -5,8 +5,8 @@ class: wide
 permalink: /about/
 ---
 
-\\
+\
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/about.jpg)
+![image-center](/assets/images/filename.jpg)
 
 ### Hello
