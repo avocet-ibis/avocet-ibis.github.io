@@ -92,6 +92,14 @@ gallery:
     image_path: /images/photos/paintedredstart.jpg
     alt: "Painted Redstart (Cibola National Forest, NM)"
     title: "Painted Redstart (Cibola National Forest, NM)"
+  - url: /images/photos/wilsonswarbler.jpg
+    image_path: /images/photos/wilsonswarbler.jpg
+    alt: "Wilson's Warbler (Socorro, NM)"
+    title: "Wilson's Warbler (Socorro, NM)"
+  - url: /images/photos/swiftfox.jpg
+    image_path: /images/photos/swiftfox.jpg
+    alt: "Swift Fox (Laramie, WY)"
+    title: "Swift Fox (Laramie, WY)"
   - url: /images/photos/rufoushummingbird.jpg
     image_path: /images/photos/rufoushummingbird.jpg
     alt: "Rufous Hummingbird (Grand Lake, CO)"
@@ -100,6 +108,14 @@ gallery:
     image_path: /images/photos/spottedtowhee.jpg
     alt: "Spotted Towhee (Albuquerque, NM)"
     title: "Spotted Towhee (Albuquerque, NM)"
+  - url: /images/photos/ibis.jpg
+    image_path: /images/photos/ibis.jpg
+    alt: "White and White-faced Ibises (Laramie, WY)"
+    title: "White and White-faced Ibises (Laramie, WY)"
+  - url: /images/photos/cactuswren.jpg
+    image_path: /images/photos/cactuswren.jpg
+    alt: "Cactus Wren (Las Cruces, NM)"
+    title: "Cactus Wren (Las Cruces, NM)"
 
 ---
 
