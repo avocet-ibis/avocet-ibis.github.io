@@ -7,6 +7,6 @@ permalink: /about/
 
 \
 
-![image-center](/assets/images/filename.jpg)
+![image-center](/assets/images/about.jpg)
 
 ### Hello
