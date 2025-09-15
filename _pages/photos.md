@@ -31,6 +31,7 @@ gallery:
     alt: "American Crow (Laramie, WY)"
     title: "American Crow (Laramie, WY)"
   - url: /images/photos/americangoldfinch.jpg
+    image_path: /images/photos/americangoldfinch.jpg
     alt: "American Goldfinch (Laramie, WY)"
 ---
 
