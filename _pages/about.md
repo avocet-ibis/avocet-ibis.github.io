@@ -7,7 +7,6 @@ permalink: /about/
 <br>
 
 ![RNSS](/images/about.jpg){: .align-center}
-*A Red-naped Sapsucker I photographed in the Magdalena Mountains of New Mexico.*
 
 ## About
 Howdy! I am a naturalist currently based in Grand Lake, CO. I spend most of my free time exploring the Intermountain West, familiarizing myself with the local flora and fauna. This blog is mostly an exercise in writing, but also a way to document what I wonder upon.
