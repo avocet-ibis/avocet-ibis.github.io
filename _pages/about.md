@@ -5,7 +5,7 @@ class: wide
 permalink: /about/
 ---
 
-
+<br/><br/>
 
 ![image-center](/assets/images/about.jpg){: .align-center}
 
