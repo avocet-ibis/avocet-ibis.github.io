@@ -90,6 +90,14 @@ gallery:
     image_path: /images/photos/wilsonsphalarope.jpg
     alt: "Wilson's Phalarope (Hutton Lake NWR, WY)"
     title: "Wilson's Phalarope (Hutton Lake NWR, WY)"
+  - url: /images/photos/javelina.jpg
+    image_path: /images/photos/javelina.jpg
+    alt: "Collared Peccary (Bosque del Apache NWR, NM)"
+    title: "Collared Peccary (Bosque del Apache NWR, NM)"
+  - url: /images/photos/weasel.jpg
+    image_path: /images/photos/weasel.jpg
+    alt: "Long-tailed Weasel (Laramie, WY)"
+    title: "Long-tailed Weasel (Laramie, WY)"
 ---
 
 
