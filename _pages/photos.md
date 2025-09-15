@@ -101,4 +101,4 @@ gallery:
 ---
 
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery caption="These thumbnails represent a some of my favorite photos that I have taken. Many others (mostly much worse quality) can be found on my eBird and iNaturalist profiles." %}
