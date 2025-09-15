@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: false
-class: wide
+classes: wide
 permalink: /about/
 ---
 
@@ -10,4 +10,4 @@ permalink: /about/
 ![RNSS](/images/about.jpg){: .align-center}
 
 ## About
-Howdy!
+Howdy! I am a naturalist currently based in Grand Lake, CO, but I spend my time exploring much of the Intermountain West.
