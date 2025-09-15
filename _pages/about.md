@@ -5,7 +5,7 @@ class: wide
 permalink: /about/
 ---
 
-## About
+I am a naturalist
 ![RNSS](/images/about.jpg){: .align-center}
 
 
