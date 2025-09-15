@@ -5,8 +5,6 @@ class: wide
 permalink: /about/
 ---
 
-<br/><br/>
-
 ![RNSS](/images/about.jpg){: .align-center}
 
 ### Hello
