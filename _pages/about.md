@@ -4,7 +4,6 @@ author_profile: false
 class: wide
 permalink: /about/
 ---
-
-![image-center](/images/about.jpg){: .align-center}
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/about.jpg)
 
 ### Hello
