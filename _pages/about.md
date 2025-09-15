@@ -1,7 +1,8 @@
 ---
 layout: single
 author_profile: false
-header:
-  image: images/header.jpg
+class: wide
 permalink: /about/
 ---
+
+### Hello
